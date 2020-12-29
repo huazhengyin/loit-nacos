@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443b0872-b279-49ca-9816-de6ff4740d15" name="Default Changelist" comment="" />
+    <list default="true" id="443b0872-b279-49ca-9816-de6ff4740d15" name="Default Changelist" comment="测试loit-nacos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1lcub4zBajEIkzGSbe0kgXdNwDu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1607908768747</updated>
     </task>
+    <task id="LOCAL-00001" summary="测试loit-nacos">
+      <created>1609220379117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609220379117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,15 +84,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试loit-nacos" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试loit-nacos" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1609220182418">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1609220307848">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609220182418" />
-    <state x="638" y="310" width="259" height="279" key="Github.ShareDialog" timestamp="1609219556703">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609220307848" />
+    <state x="638" y="310" width="259" height="279" key="Github.ShareDialog" timestamp="1609220240481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="638" y="310" width="259" height="279" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1609219556703" />
+    <state x="638" y="310" width="259" height="279" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1609220240481" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1607909336370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -102,14 +117,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609220201833" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609219627840">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609220460676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609219627840" />
-    <state x="561" y="273" key="git4idea.rebase.GitRebaseDialog" timestamp="1609219718457">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609220460676" />
+    <state x="561" y="273" key="git4idea.rebase.GitRebaseDialog" timestamp="1609220247997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="561" y="273" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1609219718457" />
+    <state x="561" y="273" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1609220247997" />
     <state x="178" y="73" key="new project wizard" timestamp="1608616024418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
